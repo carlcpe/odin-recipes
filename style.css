@@ -1,0 +1,33 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+.banner {
+    background-color: rgb(53, 53, 53);
+    color: white;
+    overflow: hidden;
+}
+
+.banner .padding-left {
+    margin-left: 20px;
+}
+
+.recipes {
+    background-color: rgb(68, 190, 190);
+}
+
+.recipes a:link {
+    color: rgb(145, 71, 28);
+}
+
+.recipes a:visited {
+    color: rgb(100, 100, 100);
+}
+
+.recipes a:hover {
+    color: blue;
+}
+
+.recipes a:active {
+    color: rgb(18, 131, 33);
+}
